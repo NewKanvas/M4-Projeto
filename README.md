@@ -176,7 +176,7 @@ Após uma análise dos resultados obtidos por diferentes bandeiras, foi possíve
 
 [![Hudson Cesar](https://img.shields.io/badge/Hudson_Cesar-red?style=for-the-badge&logo=github)](https://github.com/Hudsoncesar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudson-cesar-684b50207/)
 
-[![Arthur Lorran](https://img.shields.io/badge/Arthur_Lorran-blue?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Arthur Lorran](https://img.shields.io/badge/Arthur_Lorran-blue?style=for-the-badge&logo=github)](https://github.com/arthurlorran1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 [![Xavier Flor](https://img.shields.io/badge/Xavier_Flor-green?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
